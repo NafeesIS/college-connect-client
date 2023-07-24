@@ -1,0 +1,72 @@
+[
+    {
+        "college_image": "https://s2.research.com/wp-content/uploads/2020/12/24120822/50-most-beautiful-college-campuses-in-America-1-1200x600.jpg",
+        "college_name": "Sunflower College",
+        "college_rating": 4.5,
+        "admission_date": "2023-09-01",
+        "number_of_research": 120
+    },
+    {
+        "college_image": "https://www.timeshighereducation.com/student/sites/default/files/notre_dame_2.jpg",
+        "college_name": "Lakeview University",
+        "college_rating": 4.2,
+        "admission_date": "2023-08-15",
+        "number_of_research": 90
+    },
+    {
+        "college_image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2021/07/20152000/FI.jpg?tr=w-1200,h-900",
+        "college_name": "Meadowbrook Institute",
+        "college_rating": 4.8,
+        "admission_date": "2023-09-05",
+        "number_of_research": 150
+    },
+    {
+        "college_image": "https://images.prestigeonline.com/wp-content/uploads/sites/3/2022/08/01171127/untitled-design-2022-07-28t090629-462-1600x900.jpeg",
+        "college_name": "Pinecrest Community College",
+        "college_rating": 3.9,
+        "admission_date": "2023-08-20",
+        "number_of_research": 80
+    },
+    {
+        "college_image": "https://www.avanse.com/blogs/images/next-top-2.jpg",
+        "college_name": "Brightside University",
+        "college_rating": 4.6,
+        "admission_date": "2023-09-10",
+        "number_of_research": 110
+    },
+    {
+        "college_image": "https://www.travelandleisure.com/thmb/AftROSKTATaMo8emNuedkn8e4Dk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/berry-college-georgia-COLLEGECAMP0421-e1929cf6a79e4dc7bed1e303a66f57f2.jpg",
+        "college_name": "Springdale College",
+        "college_rating": 4.5,
+        "admission_date": "2023-09-01",
+        "number_of_research": 120
+    },
+    {
+        "college_image": "https://blog.steppingblocks.com/hubfs/Rotunda_at_University_of_Virginia%20featured.jpg",
+        "college_name": "Riverstone Institute",
+        "college_rating": 4.2,
+        "admission_date": "2023-08-15",
+        "number_of_research": 90
+    },
+    {
+        "college_image": "https://hips.hearstapps.com/hmg-prod/images/berry-college-historic-campus-at-twilight-royalty-free-image-1652127954.jpg?crop=0.88847xw:1xh;center,top&resize=1200:*",
+        "college_name": "Hilltop Community College",
+        "college_rating": 4.8,
+        "admission_date": "2023-09-05",
+        "number_of_research": 150
+    },
+    {
+        "college_image": "https://i0.wp.com/unusualplaces.org/wp-content/uploads/2020/07/image3.jpg?ssl=1",
+        "college_name": "Elmwood University",
+        "college_rating": 3.9,
+        "admission_date": "2023-08-20",
+        "number_of_research": 80
+    },
+    {
+        "college_image": "https://i0.wp.com/www.society19.com/wp-content/uploads/2019/06/architecture-buildings-campus-220351.jpg?fit=2200%2C1361&ssl=1",
+        "college_name": "Oakdale College",
+        "college_rating": 4.6,
+        "admission_date": "2023-09-10",
+        "number_of_research": 110
+    }
+]
